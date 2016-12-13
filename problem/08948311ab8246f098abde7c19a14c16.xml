@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="The overflow bit is available in&#10;(x) Counters&#10;( ) Timers&#10;( ) Both timers and counters">
+<p>The overflow bit is available in</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Counters</choice>
+    <choice correct="false">Timers</choice>
+    <choice correct="false">Both timers and counters</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

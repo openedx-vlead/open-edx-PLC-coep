@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="In case of CTU the done bit status is ---- when the accumulated and preset values are equal&#10;( ) Close&#10;( ) Low&#10;(x) High">
+<p>In case of CTU the done bit status is ---- when the accumulated and preset values are equal</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Close</choice>
+    <choice correct="false">Low</choice>
+    <choice correct="true">High</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="The programming device must be connected to the controller&#10;( ) At all times&#10;(x) When entering the program&#10;( ) When program is running">
+<p>The programming device must be connected to the controller</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">At all times</choice>
+    <choice correct="true">When entering the program</choice>
+    <choice correct="false">When program is running</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

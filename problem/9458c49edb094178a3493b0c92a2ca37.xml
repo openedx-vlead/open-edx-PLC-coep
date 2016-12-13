@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="Which bit of timer ensures that the timing process is going on&#10;(x) TT&#10;( ) DN&#10;( ) EN">
+<p>Which bit of timer ensures that the timing process is going on</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">TT</choice>
+    <choice correct="false">DN</choice>
+    <choice correct="false">EN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

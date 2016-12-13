@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="Which of the following is not type of timer &#10;(x) CTU&#10;( ) RTO&#10;( ) TON">
+<p>Which of the following is not type of timer </p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">CTU</choice>
+    <choice correct="false">RTO</choice>
+    <choice correct="false">TON</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="The accumulator bit is available in &#10;( ) Counters&#10;( ) Timers&#10;(x) Both timers and counters">
+<p>The accumulator bit is available in </p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Counters</choice>
+    <choice correct="false">Timers</choice>
+    <choice correct="true">Both timers and counters</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

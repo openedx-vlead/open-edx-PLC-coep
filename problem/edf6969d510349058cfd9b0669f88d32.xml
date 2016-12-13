@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown=" ………………… action eliminates offset&#10;(x) Integral or Reset&#10;( ) Derivative or Rate&#10;( ) Proportional">
+<p> ………………… action eliminates offset</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Integral or Reset</choice>
+    <choice correct="false">Derivative or Rate</choice>
+    <choice correct="false">Proportional</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

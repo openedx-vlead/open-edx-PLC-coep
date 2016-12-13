@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="If the preset value is 2000, for a 1ms time base timer, the delay provided is&#10;( ) 20 sec&#10;(x) 2 sec&#10;( ) 200 ms">
+<p>If the preset value is 2000, for a 1ms time base timer, the delay provided is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">20 sec</choice>
+    <choice correct="true">2 sec</choice>
+    <choice correct="false">200 ms</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

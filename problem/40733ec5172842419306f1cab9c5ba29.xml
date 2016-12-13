@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="Which of the following is not a factor in determining the total scan time of a PLC&#10;( ) Total no. of inputs and outputs&#10;(x) Programming method&#10;( ) Program length">
+<p>Which of the following is not a factor in determining the total scan time of a PLC</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Total no. of inputs and outputs</choice>
+    <choice correct="true">Programming method</choice>
+    <choice correct="false">Program length</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

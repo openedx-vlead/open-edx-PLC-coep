@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="………………… is changed to keep the measured variable at set point&#10;( ) Set point&#10;( ) Disturbance&#10;(x) manipulated variable">
+<p>………………… is changed to keep the measured variable at set point</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Set point</choice>
+    <choice correct="false">Disturbance</choice>
+    <choice correct="true">manipulated variable</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

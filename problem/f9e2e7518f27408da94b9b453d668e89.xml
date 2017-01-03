@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="In any PLC based system, scan time of loop does not depend on&#10;(x) Memory capacity&#10;( ) Program length&#10;( ) CPU speed">
+<p>In any PLC based system, scan time of loop does not depend on</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Memory capacity</choice>
+    <choice correct="false">Program length</choice>
+    <choice correct="false">CPU speed</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="While developing the ladder program the contacts are in&#10;( ) Any state (either energised or de-enrgised)&#10;( ) Energised state&#10;(x) De-energised state">
+<p>While developing the ladder program the contacts are in</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Any state (either energised or de-enrgised)</choice>
+    <choice correct="false">Energised state</choice>
+    <choice correct="true">De-energised state</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="The done bit of counter changes state when &#10;(x) the accumulated value reaches the preset value&#10;( ) The overflow bit is set&#10;( ) The accumulated value reaches to overflow value">
+<p>The done bit of counter changes state when </p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">the accumulated value reaches the preset value</choice>
+    <choice correct="false">The overflow bit is set</choice>
+    <choice correct="false">The accumulated value reaches to overflow value</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

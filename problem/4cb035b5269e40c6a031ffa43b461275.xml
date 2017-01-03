@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="Input modules provide an interface between &#10;(x) Field equipment and the CPU&#10;( ) Input modules and the CPU&#10;( ) output modules and the field devices">
+<p>Input modules provide an interface between </p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Field equipment and the CPU</choice>
+    <choice correct="false">Input modules and the CPU</choice>
+    <choice correct="false">output modules and the field devices</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

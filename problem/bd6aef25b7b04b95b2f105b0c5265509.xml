@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="Ton timer is used when action is expected to be delayed&#10;(x) True&#10;( ) False&#10;( ) Not always true">
+<p>Ton timer is used when action is expected to be delayed</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+    <choice correct="false">Not always true</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

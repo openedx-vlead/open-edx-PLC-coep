@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="Major limitation of integral action is .....&#10;( ) Unstable loop&#10;( ) Increased response time&#10;(x) Both Unstable loop and Increased response time">
+<p>Major limitation of integral action is .....</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Unstable loop</choice>
+    <choice correct="false">Increased response time</choice>
+    <choice correct="true">Both Unstable loop and Increased response time</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

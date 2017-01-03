@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="DOL stands for &#10;( ) Digital on line starter&#10;( ) Direct on line switch&#10;(x) Direct on line starter">
+<p>DOL stands for </p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Digital on line starter</choice>
+    <choice correct="false">Direct on line switch</choice>
+    <choice correct="true">Direct on line starter</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

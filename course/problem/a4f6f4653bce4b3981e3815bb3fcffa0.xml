@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="When referring to the capacity, the abbreviation K represents ---- locations or words&#10;( ) 1000&#10;(x) 1024&#10;( ) 1036">
+  <p>When referring to the capacity, the abbreviation K represents ---- locations or words</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1000</choice>
+      <choice correct="true">1024</choice>
+      <choice correct="false">1036</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

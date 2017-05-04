@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="The term ‘PLC’ stands for &#10;(x) Programmable logic controller&#10;( ) Programmable logic Center&#10;( ) Process logic control">
+  <p>The term ‘PLC’ stands for </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Programmable logic controller</choice>
+      <choice correct="false">Programmable logic Center</choice>
+      <choice correct="false">Process logic control</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

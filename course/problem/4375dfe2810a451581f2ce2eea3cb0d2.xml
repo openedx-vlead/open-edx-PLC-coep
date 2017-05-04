@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="The sequence of steps repeated by the processor to perform the duties of the PLC is called&#10;( ) Polling&#10;( ) Updating&#10;(x) Scanning">
+  <p>The sequence of steps repeated by the processor to perform the duties of the PLC is called</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Polling</choice>
+      <choice correct="false">Updating</choice>
+      <choice correct="true">Scanning</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Which bit of timer ensures that the timing process is over i.e. accumulated and preset time is equal&#10;(x) DN&#10;( ) EN&#10;( ) TT">
+  <p>Which bit of timer ensures that the timing process is over i.e. accumulated and preset time is equal</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">DN</choice>
+      <choice correct="false">EN</choice>
+      <choice correct="false">TT</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="The logical OR function is similar to&#10;(x) Contacts in parallel&#10;( ) Contacts in series&#10;( ) Combination of series- parallel contacts">
+  <p>The logical OR function is similar to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Contacts in parallel</choice>
+      <choice correct="false">Contacts in series</choice>
+      <choice correct="false">Combination of series- parallel contacts</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

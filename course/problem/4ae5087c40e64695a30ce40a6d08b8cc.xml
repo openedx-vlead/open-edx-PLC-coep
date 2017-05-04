@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown=" ……………… is difference between measured value and set point&#10;( ) Disturbance&#10;(x) Error&#10;( ) Set point">
+  <p> ……………… is difference between measured value and set point</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Disturbance</choice>
+      <choice correct="true">Error</choice>
+      <choice correct="false">Set point</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown=" ------------ is the criteria to limit the use of DOL starter &#10;(x) High inrush current&#10;( ) Armature Current&#10;( ) Size of the motor">
+  <p> ------------ is the criteria to limit the use of DOL starter </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">High inrush current</choice>
+      <choice correct="false">Armature Current</choice>
+      <choice correct="false">Size of the motor</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

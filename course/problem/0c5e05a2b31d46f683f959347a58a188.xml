@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="The basic difference between a PLC and a relay logic is that&#10;( ) Different types of input/outputs devices are used&#10;( ) Different voltage levels for inputs/outputs are use&#10;(x) One can be programmed other not">
+  <p>The basic difference between a PLC and a relay logic is that</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Different types of input/outputs devices are used</choice>
+      <choice correct="false">Different voltage levels for inputs/outputs are use</choice>
+      <choice correct="true">One can be programmed other not</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

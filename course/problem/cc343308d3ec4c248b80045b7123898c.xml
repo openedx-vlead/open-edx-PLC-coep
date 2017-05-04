@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="The PLCs were originally designed to replace&#10;(x) Hardwired relays&#10;( ) Analog controllers&#10;( ) Microcomputers">
+  <p>The PLCs were originally designed to replace</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Hardwired relays</choice>
+      <choice correct="false">Analog controllers</choice>
+      <choice correct="false">Microcomputers</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="A DOL motor starter contains---------- for protection purpose.&#10;( ) Relay&#10;( ) Switch&#10;(x) Over load relay">
+  <p>A DOL motor starter contains---------- for protection purpose.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Relay</choice>
+      <choice correct="false">Switch</choice>
+      <choice correct="true">Over load relay</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

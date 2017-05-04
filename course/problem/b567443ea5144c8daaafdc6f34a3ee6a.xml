@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="The main difference between a Ton and a Toff timer is that &#10;( ) Toff can maintain the accumulated time on loss of logic continuity&#10;(x) Toff timer begins timing when logic continuity to the rung is lost&#10;( ) Ton can maintain the accumulated time on loss of logic continuity">
+  <p>The main difference between a Ton and a Toff timer is that </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Toff can maintain the accumulated time on loss of logic continuity</choice>
+      <choice correct="true">Toff timer begins timing when logic continuity to the rung is lost</choice>
+      <choice correct="false">Ton can maintain the accumulated time on loss of logic continuity</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

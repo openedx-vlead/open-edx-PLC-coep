@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="When the arithmatic operations are carried out in the PLC, if the data type for source and destination is not similar then, &#10;( ) loss of accuracy and rounding error occurs&#10;( ) Instruction takes more time to execute.&#10;(x) Both 1 and 2 above">
+  <p>When the arithmatic operations are carried out in the PLC, if the data type for source and destination is not similar then, </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">loss of accuracy and rounding error occurs</choice>
+      <choice correct="false">Instruction takes more time to execute.</choice>
+      <choice correct="true">Both 1 and 2 above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

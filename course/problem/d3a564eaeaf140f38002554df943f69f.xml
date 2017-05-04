@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="In which of the following applications DOL starter can be used&#10;( ) Conveyor belts&#10;( ) Water pumps&#10;(x) Both a and b">
+  <p>In which of the following applications DOL starter can be used</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Conveyor belts</choice>
+      <choice correct="false">Water pumps</choice>
+      <choice correct="true">Both a and b</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

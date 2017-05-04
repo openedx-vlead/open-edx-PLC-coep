@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="What will be the result if the proportional gain is set too high? &#10;( ) Stable loop&#10;( ) Minimun offset&#10;(x) Large offset">
+  <p>What will be the result if the proportional gain is set too high? </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Stable loop</choice>
+      <choice correct="false">Minimun offset</choice>
+      <choice correct="true">Large offset</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

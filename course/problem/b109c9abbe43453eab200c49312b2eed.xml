@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Which of the following logic operators are available in PLC?&#10;( ) AND, OR&#10;( ) NOT&#10;(x) All of the above">
+  <p>Which of the following logic operators are available in PLC?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">AND, OR</choice>
+      <choice correct="false">NOT</choice>
+      <choice correct="true">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

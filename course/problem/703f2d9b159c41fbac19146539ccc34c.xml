@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="For an electromagnetic relay two types of contacts available are&#10;( ) Nominal close and Nominal open&#10;( ) Nominal close and Partial open&#10;(x) Normally close and Normally open">
+  <p>For an electromagnetic relay two types of contacts available are</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Nominal close and Nominal open</choice>
+      <choice correct="false">Nominal close and Partial open</choice>
+      <choice correct="true">Normally close and Normally open</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

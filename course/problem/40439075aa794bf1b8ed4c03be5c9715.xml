@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="In PLC 'OND' term stands for &#10;(x) ON Delay Timer&#10;( ) OFF Delay Timer&#10;( ) Both On or OFF Delay Timer">
+  <p>In PLC 'OND' term stands for </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">ON Delay Timer</choice>
+      <choice correct="false">OFF Delay Timer</choice>
+      <choice correct="false">Both On or OFF Delay Timer</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="For operation of the ….. application electric motor is not required&#10;(x) Water filter&#10;( ) Refrigerator&#10;( ) Mixer">
+  <p>For operation of the ….. application electric motor is not required</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Water filter</choice>
+      <choice correct="false">Refrigerator</choice>
+      <choice correct="false">Mixer</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

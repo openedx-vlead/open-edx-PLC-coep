@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="DN bit for Toff timer is initially high when the program is switched to run mode after downloading&#10;(x) True&#10;( ) False&#10;( ) Can’t say">
+  <p>DN bit for Toff timer is initially high when the program is switched to run mode after downloading</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+      <choice correct="false">Can’t say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

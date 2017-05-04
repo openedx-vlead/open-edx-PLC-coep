@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="The term ‘analog’ refers to&#10;(x) A signal which is continuously varying w.r.t time&#10;( ) A signal which is constant w.r.t time&#10;( ) A signal which is not varying w.r.t time">
+  <p>The term ‘analog’ refers to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">A signal which is continuously varying w.r.t time</choice>
+      <choice correct="false">A signal which is constant w.r.t time</choice>
+      <choice correct="false">A signal which is not varying w.r.t time</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

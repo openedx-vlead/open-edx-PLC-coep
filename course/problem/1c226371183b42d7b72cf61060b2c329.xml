@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Reset wind up is observed in .... control action &#10;( ) Proportional + Derivative&#10;(x) Proportional + Integral&#10;( ) Proportional">
+  <p>Reset wind up is observed in .... control action </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Proportional + Derivative</choice>
+      <choice correct="true">Proportional + Integral</choice>
+      <choice correct="false">Proportional</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

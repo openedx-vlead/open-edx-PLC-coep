@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="......... action is not preferred when noise is present on the process that is to be controlled&#10;(x) Derivative&#10;( ) Integral&#10;( ) Proportional">
+  <p>......... action is not preferred when noise is present on the process that is to be controlled</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Derivative</choice>
+      <choice correct="false">Integral</choice>
+      <choice correct="false">Proportional</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

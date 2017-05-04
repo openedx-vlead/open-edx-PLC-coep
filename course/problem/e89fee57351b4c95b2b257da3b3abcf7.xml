@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="To stop the timer operation&#10;(x) The rung condition is made false&#10;( ) The done bit is set to low&#10;( ) The accumulated value is set to zero">
+  <p>To stop the timer operation</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">The rung condition is made false</choice>
+      <choice correct="false">The done bit is set to low</choice>
+      <choice correct="false">The accumulated value is set to zero</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

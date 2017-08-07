@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="The ----- will account for the most of the total memory of a given PLC program&#10;(x) User program&#10;( ) Output image table&#10;( ) Input image table">
-<p>The ----- will account for the most of the total memory of a given PLC program</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">User program</choice>
-    <choice correct="false">Output image table</choice>
-    <choice correct="false">Input image table</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>The ----- will account for the most of the total memory of a given PLC program</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">User program</choice>
+      <choice correct="false">Output image table</choice>
+      <choice correct="false">Input image table</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

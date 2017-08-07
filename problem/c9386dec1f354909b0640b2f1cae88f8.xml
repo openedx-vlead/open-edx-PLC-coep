@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="For starting of an electric motor ----------is preferred&#10;( ) normally open (NO) switch&#10;(x) normally open (NO) push button&#10;( ) normally closed (NC) push button">
-<p>For starting of an electric motor ----------is preferred</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">normally open (NO) switch</choice>
-    <choice correct="true">normally open (NO) push button</choice>
-    <choice correct="false">normally closed (NC) push button</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>For starting of an electric motor ----------is preferred</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">normally open (NO) switch</choice>
+      <choice correct="true">normally open (NO) push button</choice>
+      <choice correct="false">normally closed (NC) push button</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

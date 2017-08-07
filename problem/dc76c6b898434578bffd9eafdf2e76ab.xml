@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="The motor armature acts as&#10;(x) a rotor&#10;( ) a stator&#10;( ) an axle">
-<p>The motor armature acts as</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">a rotor</choice>
-    <choice correct="false">a stator</choice>
-    <choice correct="false">an axle</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>The motor armature acts as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">a rotor</choice>
+      <choice correct="false">a stator</choice>
+      <choice correct="false">an axle</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

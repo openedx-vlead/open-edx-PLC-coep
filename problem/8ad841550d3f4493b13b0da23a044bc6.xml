@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="The word ‘DN’ in case of counters/timers stands for&#10;( ) Duration bit&#10;(x) Done bit&#10;( ) Direction bit">
-<p>The word ‘DN’ in case of counters/timers stands for</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Duration bit</choice>
-    <choice correct="true">Done bit</choice>
-    <choice correct="false">Direction bit</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>The word ‘DN’ in case of counters/timers stands for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Duration bit</choice>
+      <choice correct="true">Done bit</choice>
+      <choice correct="false">Direction bit</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

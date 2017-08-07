@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="In down counter instruction the accumulated value will decrease only when&#10;( ) There is complete transition from low to high&#10;(x) There is complete transition from high to low&#10;( ) Can’t Say">
-<p>In down counter instruction the accumulated value will decrease only when</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">There is complete transition from low to high</choice>
-    <choice correct="true">There is complete transition from high to low</choice>
-    <choice correct="false">Can’t Say</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>In down counter instruction the accumulated value will decrease only when</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">There is complete transition from low to high</choice>
+      <choice correct="true">There is complete transition from high to low</choice>
+      <choice correct="false">Can’t Say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

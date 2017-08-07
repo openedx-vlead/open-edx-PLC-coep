@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="DN bit for Ton timer is initially high when the program is switched to run mode after downloading&#10;( ) True&#10;(x) False&#10;( ) Can’t say">
-<p>DN bit for Ton timer is initially high when the program is switched to run mode after downloading</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-    <choice correct="false">Can’t say</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>DN bit for Ton timer is initially high when the program is switched to run mode after downloading</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+      <choice correct="false">Can’t say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

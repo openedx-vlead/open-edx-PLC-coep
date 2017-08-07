@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="In which of the following applications counter block is necessary&#10;( ) Real time clock&#10;(x) Bottle filling plant&#10;( ) Automatic drilling machine">
-<p>In which of the following applications counter block is necessary</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Real time clock</choice>
-    <choice correct="true">Bottle filling plant</choice>
-    <choice correct="false">Automatic drilling machine</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>In which of the following applications counter block is necessary</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Real time clock</choice>
+      <choice correct="true">Bottle filling plant</choice>
+      <choice correct="false">Automatic drilling machine</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

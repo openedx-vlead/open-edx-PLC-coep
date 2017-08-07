@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="In a ladder diagram an output would be represented by&#10;(x) A coil symbol&#10;( ) A closed contact symbol&#10;( ) An open contact symbol">
-<p>In a ladder diagram an output would be represented by</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">A coil symbol</choice>
-    <choice correct="false">A closed contact symbol</choice>
-    <choice correct="false">An open contact symbol</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>In a ladder diagram an output would be represented by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">A coil symbol</choice>
+      <choice correct="false">A closed contact symbol</choice>
+      <choice correct="false">An open contact symbol</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

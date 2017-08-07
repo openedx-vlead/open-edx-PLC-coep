@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="In case of PLC, ___ term is used for down counter function&#10;( ) CTU&#10;(x) CTD&#10;( ) none of these">
-<p>In case of PLC, ___ term is used for down counter function</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">CTU</choice>
-    <choice correct="true">CTD</choice>
-    <choice correct="false">none of these</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>In case of PLC, ___ term is used for down counter function</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">CTU</choice>
+      <choice correct="true">CTD</choice>
+      <choice correct="false">none of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

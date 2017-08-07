@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="........... parameter stores the result of the math instruction&#10;( ) EnableOut&#10;( ) EnableIn&#10;(x) Dest">
-<p>........... parameter stores the result of the math instruction</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">EnableOut</choice>
-    <choice correct="false">EnableIn</choice>
-    <choice correct="true">Dest</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>........... parameter stores the result of the math instruction</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">EnableOut</choice>
+      <choice correct="false">EnableIn</choice>
+      <choice correct="true">Dest</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

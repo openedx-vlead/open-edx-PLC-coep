@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="What type of input a limit switch is w.r.t PLC&#10;( ) Composite&#10;( ) Analog&#10;(x) Digital">
-<p>What type of input a limit switch is w.r.t PLC</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Composite</choice>
-    <choice correct="false">Analog</choice>
-    <choice correct="true">Digital</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>What type of input a limit switch is w.r.t PLC</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Composite</choice>
+      <choice correct="false">Analog</choice>
+      <choice correct="true">Digital</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

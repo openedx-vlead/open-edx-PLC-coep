@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="In off delay timer the status of TT bit is same as&#10;(x) Rung condition IN bit&#10;( ) EN bit&#10;( ) DN bit">
-<p>In off delay timer the status of TT bit is same as</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Rung condition IN bit</choice>
-    <choice correct="false">EN bit</choice>
-    <choice correct="false">DN bit</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>In off delay timer the status of TT bit is same as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Rung condition IN bit</choice>
+      <choice correct="false">EN bit</choice>
+      <choice correct="false">DN bit</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

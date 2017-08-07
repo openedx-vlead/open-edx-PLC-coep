@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="The data type of EnableOut is &#10;(x) BOOL&#10;( ) REAL&#10;( ) INT">
-<p>The data type of EnableOut is </p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">BOOL</choice>
-    <choice correct="false">REAL</choice>
-    <choice correct="false">INT</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>The data type of EnableOut is </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">BOOL</choice>
+      <choice correct="false">REAL</choice>
+      <choice correct="false">INT</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

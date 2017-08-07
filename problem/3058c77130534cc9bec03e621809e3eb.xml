@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="PID controller is very important block of any……………………system &#10;( ) Open loop&#10;(x) Feed back&#10;( ) Feed forward">
-<p>PID controller is very important block of any……………………system </p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Open loop</choice>
-    <choice correct="true">Feed back</choice>
-    <choice correct="false">Feed forward</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>PID controller is very important block of any……………………system </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Open loop</choice>
+      <choice correct="true">Feed back</choice>
+      <choice correct="false">Feed forward</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

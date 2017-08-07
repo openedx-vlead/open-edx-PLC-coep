@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="The word ‘CPU’ in microprocessor systems is&#10;( ) Control Process and Use&#10;( ) Control Process Unit&#10;(x) Central Processing Unit">
-<p>The word ‘CPU’ in microprocessor systems is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Control Process and Use</choice>
-    <choice correct="false">Control Process Unit</choice>
-    <choice correct="true">Central Processing Unit</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>The word ‘CPU’ in microprocessor systems is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Control Process and Use</choice>
+      <choice correct="false">Control Process Unit</choice>
+      <choice correct="true">Central Processing Unit</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

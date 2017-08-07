@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="Which of the following is a PLC programming standard &#10;( ) IEC 61107&#10;(x) IEC 61131-3&#10;( ) ANSI/ISA S-88">
-<p>Which of the following is a PLC programming standard </p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">IEC 61107</choice>
-    <choice correct="true">IEC 61131-3</choice>
-    <choice correct="false">ANSI/ISA S-88</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Which of the following is a PLC programming standard </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">IEC 61107</choice>
+      <choice correct="true">IEC 61131-3</choice>
+      <choice correct="false">ANSI/ISA S-88</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

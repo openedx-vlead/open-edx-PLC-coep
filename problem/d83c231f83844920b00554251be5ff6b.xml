@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="In PLC ladder program Branch instruction is used to create&#10;( ) Series of energised contacts&#10;(x) Parallel path&#10;( ) series path">
-<p>In PLC ladder program Branch instruction is used to create</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Series of energised contacts</choice>
-    <choice correct="true">Parallel path</choice>
-    <choice correct="false">series path</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>In PLC ladder program Branch instruction is used to create</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Series of energised contacts</choice>
+      <choice correct="true">Parallel path</choice>
+      <choice correct="false">series path</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

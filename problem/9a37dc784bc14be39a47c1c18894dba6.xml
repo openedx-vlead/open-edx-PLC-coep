@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="An electric motor converts &#10;( ) Mechanical energy into electrical energy&#10;(x) Electric energy in mechanical energy&#10;( ) Both a and B">
-<p>An electric motor converts </p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Mechanical energy into electrical energy</choice>
-    <choice correct="true">Electric energy in mechanical energy</choice>
-    <choice correct="false">Both a and B</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>An electric motor converts </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Mechanical energy into electrical energy</choice>
+      <choice correct="true">Electric energy in mechanical energy</choice>
+      <choice correct="false">Both a and B</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

@@ -1,12 +1,10 @@
 <problem display_name="Multiple Choice" markdown="Toff stands for&#10;( ) Retentive timer&#10;( ) On delay timer&#10;(x) Off delay timer">
-<p>Toff stands for</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Retentive timer</choice>
-    <choice correct="false">On delay timer</choice>
-    <choice correct="true">Off delay timer</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Toff stands for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Retentive timer</choice>
+      <choice correct="false">On delay timer</choice>
+      <choice correct="true">Off delay timer</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

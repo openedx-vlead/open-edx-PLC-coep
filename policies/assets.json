@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "EEE12", 
+            "course": "ee01", 
             "name": "BMA_Automation_Allen_Bradley_PLC_3.JPG", 
-            "org": "COE-Pune", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "BMA_Automation_Allen_Bradley_PLC_3.JPG", 
-        "filename": "asset-v1:COE-Pune+EEE12+Anytime+type@asset+block@BMA_Automation_Allen_Bradley_PLC_3.JPG", 
+        "filename": "asset-v1:Virtual-Labs+ee01+Anytime+type@asset+block@BMA_Automation_Allen_Bradley_PLC_3.JPG", 
         "import_path": "BMA_Automation_Allen_Bradley_PLC_3.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "COE-Pune", 
-            "EEE12", 
+            "Virtual-Labs", 
+            "ee01", 
             "thumbnail", 
             "BMA_Automation_Allen_Bradley_PLC_3-JPG.jpg", 
             null
